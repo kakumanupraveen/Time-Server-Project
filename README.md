@@ -45,3 +45,5 @@ var server = http.createServer(function (req, res) {
 
 server.listen(8000);
 
+google slides:
+https://docs.google.com/presentation/d/1DimqJIgVtgZYi5SebVJqVHvtu7E5xSOx_mUhJFbyDU0/edit#slide=id.g273275bba51_0_31
